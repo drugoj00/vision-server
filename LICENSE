@@ -1,0 +1,78 @@
+VISION SERVER: LICENSE / ЛІЦЕНЗІЯ / ЛИЦЕНЗИЯ
+Copyright (c) 2026 drugoj00. All rights reserved. / Усі права захищено. / Все права защищены.
+https://drugoj00.github.io/
+
+Languages: English | Українська | Русский.
+Version of this text: 1 (21.11.2026). If translations differ, the English text applies.
+
+======================================================================
+ENGLISH
+======================================================================
+
+1. What you get. Vision Server (the "Program") is free for personal, non-commercial use. It contains no advertising. You may install it on your own devices.
+
+2. Ownership. The Program is protected by copyright. All rights not expressly granted here are reserved by the author. The source code is not published and no license to it is granted.
+
+3. Redistribution. You may share the Program only in its original, unmodified form (the original zip file as published by the author), free of charge, and only with the author's name and the link above kept intact. You may not sell it, bundle it with other software or paid services, or place advertising around it.
+
+4. Restrictions. You may not modify the Program, remove or change the author's notices, rebrand it, publish modified builds, or decompile, disassemble or reverse engineer it, except where applicable law expressly allows this despite this restriction, and except for rights you have under the licenses of third-party components listed in clause 6.
+
+5. Content and your responsibility. The Program does not contain or provide any content. It is a neutral tool. You are solely responsible for the torrents and other sources you open through it, and for following the laws of your country, including copyright law. The author is not responsible for how you use the Program.
+
+6. Third-party components. The Program uses third-party components under their own licenses, which stay in force and are not limited by this text, among them libtorrent (BSD-3-Clause), anacrolix/torrent (MPL-2.0) and the Python runtime (PSF-2.0).
+
+7. No warranty. The Program is provided "as is", without warranty of any kind. To the extent permitted by law, the author is not liable for any damage, data loss or consequences arising from the use of the Program.
+
+8. Network access. While it runs, the Program serves torrents over your network to your own Vision clients, protected by an access key. You can stop it at any time on the Server page of Vision for Windows.
+
+9. Termination. This license ends automatically if you break its terms. Then you must stop using the Program and delete your copies.
+
+10. Contact. Questions and bug reports: https://drugoj00.github.io/
+
+======================================================================
+УКРАЇНСЬКА
+======================================================================
+
+1. Що ви отримуєте. Vision Server («Програма») безкоштовна для особистого некомерційного використання. Реклами в ній немає. Ви можете встановлювати її на власні пристрої.
+
+2. Авторські права. Програму захищено авторським правом. Усі права, прямо не надані цим текстом, залишаються за автором. Вихідний код не публікується, ліцензії на нього не надається.
+
+3. Поширення. Поширювати Програму можна лише в оригінальному, незміненому вигляді (оригінальний zip-файл, опублікований автором), безкоштовно і лише зі збереженням імені автора та посилання вище. Продавати її, додавати до іншого програмного забезпечення чи платних послуг, розміщувати навколо неї рекламу не можна.
+
+4. Обмеження. Не можна змінювати Програму, видаляти чи міняти повідомлення про авторство, видавати її під іншою назвою, публікувати змінені збірки, а також декомпілювати, дизасемблювати чи досліджувати її внутрішню будову, окрім випадків, коли чинне законодавство прямо це дозволяє попри це обмеження, та окрім прав, які ви маєте за ліцензіями сторонніх компонентів із пункту 6.
+
+5. Вміст і ваша відповідальність. Програма не містить і не надає жодного вмісту. Це нейтральний інструмент. Ви самі повністю відповідаєте за торенти та інші джерела, які відкриваєте через неї, і за дотримання законів своєї країни, зокрема авторського права. Автор не відповідає за те, як ви використовуєте Програму.
+
+6. Сторонні компоненти. Програма використовує сторонні компоненти за їхніми ліцензіями, які залишаються чинними і не обмежуються цим текстом, серед них libtorrent (BSD-3-Clause), anacrolix/torrent (MPL-2.0) і середовище виконання Python (PSF-2.0).
+
+7. Без гарантій. Програма надається «як є», без жодних гарантій. У межах, дозволених законом, автор не відповідає за збитки, втрату даних чи наслідки використання Програми.
+
+8. Доступ із мережі. Поки Програма працює, вона роздає торенти мережею вашим клієнтам Vision із захистом ключем доступу. Зупинити її можна будь-коли на сторінці «Сервер» у Vision для Windows.
+
+9. Припинення. Ліцензія припиняється автоматично, якщо ви порушуєте її умови. Тоді слід припинити користування Програмою й видалити копії.
+
+10. Контакти. Питання та повідомлення про помилки: https://drugoj00.github.io/
+
+======================================================================
+РУССКИЙ
+======================================================================
+
+1. Что вы получаете. Vision Server («Программа») бесплатна для личного некоммерческого использования. Рекламы в ней нет. Вы можете устанавливать её на свои устройства.
+
+2. Авторское право. Программа защищена авторским правом. Все права, прямо не предоставленные этим текстом, сохраняются за автором. Исходный код не публикуется, лицензия на него не предоставляется.
+
+3. Распространение. Распространять Программу можно только в оригинальном, неизменённом виде (оригинальный zip-файл, опубликованный автором), бесплатно и только с сохранением имени автора и ссылки выше. Продавать её, включать в состав другого программного обеспечения или платных услуг, размещать вокруг неё рекламу нельзя.
+
+4. Ограничения. Нельзя изменять Программу, удалять или менять сведения об авторстве, выдавать её под другим названием, публиковать изменённые сборки, а также декомпилировать, дизассемблировать или исследовать её внутреннее устройство, кроме случаев, когда действующий закон прямо разрешает это вопреки данному ограничению, и кроме прав, которые у вас есть по лицензиям сторонних компонентов из пункта 6.
+
+5. Контент и ваша ответственность. Программа не содержит и не предоставляет никакого контента. Это нейтральный инструмент. Вы сами и полностью отвечаете за торренты и другие источники, которые открываете через неё, и за соблюдение законов своей страны, в том числе об авторском праве. Автор не отвечает за то, как вы используете Программу.
+
+6. Сторонние компоненты. Программа использует сторонние компоненты по их собственным лицензиям, которые остаются в силе и не ограничиваются этим текстом, среди них libtorrent (BSD-3-Clause), anacrolix/torrent (MPL-2.0) и среда выполнения Python (PSF-2.0).
+
+7. Без гарантий. Программа предоставляется «как есть», без каких-либо гарантий. В пределах, разрешённых законом, автор не отвечает за ущерб, потерю данных и последствия использования Программы.
+
+8. Доступ из сети. Пока Программа работает, она раздаёт торренты по сети вашим клиентам Vision под защитой ключа доступа. Остановить её можно в любой момент на странице «Сервер» в Vision для Windows.
+
+9. Прекращение. Лицензия прекращается автоматически, если вы нарушаете её условия. Тогда нужно прекратить пользоваться Программой и удалить копии.
+
+10. Контакты. Вопросы и сообщения об ошибках: https://drugoj00.github.io/
